@@ -2,7 +2,7 @@
 <manifest>
 
   <remote  name="aosp"
-           fetch="git://aosp.tuna.tsinghua.edu.cn/android/" />
+           fetch="git://mirrors.ustc.edu.cn/aosp/" />
 
   <remote  name="origin"
            fetch="https://github.com/topeetOrg"
